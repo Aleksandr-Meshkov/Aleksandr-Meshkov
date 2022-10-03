@@ -12,7 +12,9 @@
 ![CI](https://img.shields.io/badge/-CSS-yellowgreen)
 ![CI](https://img.shields.io/badge/-HTML-lightgrey)
 
-## - 📫 Мои контакты: [ПОЧТА](mechkov.a_konslg@mail.ru) [ТЕЛЕГРАММ](https://t.me/Alexander_Meshkov1989)
+## - 📫 Мои контакты:
+  - [ТЕЛЕГРАММ](https://t.me/Alexander_Meshkov1989)
+  - mechkov.a_konslg@mail.ru
 <!--
 **Aleksandr-Meshkov/Aleksandr-Meshkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
