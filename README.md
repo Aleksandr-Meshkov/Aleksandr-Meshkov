@@ -14,7 +14,7 @@
 
 ## - 📫 Мои контакты:
   - [ТЕЛЕГРАММ](https://t.me/Alexander_Meshkov1989)
-  - [ПОЧТА](mechkov.a_konslg@mail.ru)
+  - mechkov.a_konslg@mail.ru 
 <!--
 **Aleksandr-Meshkov/Aleksandr-Meshkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
